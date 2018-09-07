@@ -1,2 +1,4 @@
 name: Shawn Tsosie
 markdown: kramdown
+
+permalink: /blog/:year/:month/:day/:title
