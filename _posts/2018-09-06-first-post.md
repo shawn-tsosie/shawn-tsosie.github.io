@@ -11,7 +11,7 @@ There are several projects that I'm interested in:
 <ol>
 <li>machine learning</li>
 <li>elliptic curve cryptography</li>
-<li>Gross-Stark units
+  <li>Gross-Stark units</li>
 <li>perfectoid spaces.</li>
 </ol>
 
