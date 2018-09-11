@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "p-adic Numbers Part One"
-date: 2018-09-09
+date: 2018-09-10
 ---
 
 One of the first major theorems learned in elementary number theory is the Fundamental Theorem of Arithmetic. The theorem states that every positive number can be factored uniquely, up to rearrangement of factors. Well, what does that even mean?
