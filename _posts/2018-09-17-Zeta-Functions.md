@@ -29,7 +29,7 @@ $$\Gamma(s) = \int_{0}^{\infty} \, e^{-y} y^{s} \frac{dy}{y}.$$
 
 We can now determine the values of the zeta function at values where the real part of $$s$$ is less than 1 via the following functional equation:
 $$Z(s) = Z(1-s).$$
-Now that we can evaluate at negative integers, we make an interesting discovery:  $$zeta(1-k)$$ is a rational number when $$k$$ is a non-negative integer.
+Now that we can evaluate at negative integers, we make an interesting discovery:  $$\zeta(1-k)$$ is a rational number when $$k$$ is a non-negative integer.
 Finally, we are led to some amazing congruence conditions called **Kummer's Congruences**.
 
 There is much more to the Riemann zeta function and the numerous generalizations.  For more information see:
