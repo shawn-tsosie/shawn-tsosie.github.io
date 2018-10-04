@@ -16,9 +16,11 @@ Unnatural here means that we are making arbitrary choices.
 The prime ideal takes care of these arbitrary choices.
 
 So, to move back to what we were talking about before, there are several constituents of an algebraic number field that come from the following exact sequence:
+
 $$
 1 \to \mathcal{O}_{K}^{\ast} \to K^{\ast} \to \mathcal{J}_{K} \to \mathcal{Cl}_{K} \to 1.
 $$
+
 Here:
 * $\mathcal{O}_{K}^{\ast}$ are the units of the rings of integers of $K$;
 * $K^{\ast}$ is $K$ with the $0$ element removed;
@@ -28,7 +30,7 @@ Here:
 We will leave all of these as black boxes, except $\mathcal{O}_{K}^{\ast}$.
 It isn't too important to know what an exact sequence is, but it helps to think of them as some kind of generalization of a subspace decomposition of a vector space.
 
-The ring of integers $\mathcal{O}'_{K}$ is the set of elements $\alpha$, which we call *algebraic integers*, such that $\alpha$ is the root of a polynomial whose coefficients are all integers and whose leading coefficient is 1.
+The ring of integers $\mathcal{O}\_{K}$ is the set of elements $\alpha$, which we call *algebraic integers*, such that $\alpha$ is the root of a polynomial whose coefficients are all integers and whose leading coefficient is 1.
 The set of units $\mathcal{O}_{K}^{\ast}$ is a subset of $\mathcal{O}_{K}$ such that $\alpha$ is a unit if and only if there exists an algebraic integer $\beta$ such that $\alpha \beta = 1$.
 
 The first thing we note is that $\mathcal{O}_{K}^{\ast}$ is an abelian group.
