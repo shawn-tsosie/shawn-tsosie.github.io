@@ -28,7 +28,7 @@ Here:
 We will leave all of these as black boxes, except $\mathcal{O}_{K}^{\ast}$.
 It isn't too important to know what an exact sequence is, but it helps to think of them as some kind of generalization of a subspace decomposition of a vector space.
 
-The ring of integers $\mathcal{O}_{K}$ is the set of elements $\alpha$, which we call *algebraic integers*, such that $\alpha$ is the root of a polynomial whose coefficients are all integers and whose leading coefficient is 1.
+The ring of integers $\mathcal{O}'_{K}$ is the set of elements $\alpha$, which we call *algebraic integers*, such that $\alpha$ is the root of a polynomial whose coefficients are all integers and whose leading coefficient is 1.
 The set of units $\mathcal{O}_{K}^{\ast}$ is a subset of $\mathcal{O}_{K}$ such that $\alpha$ is a unit if and only if there exists an algebraic integer $\beta$ such that $\alpha \beta = 1$.
 
 The first thing we note is that $\mathcal{O}_{K}^{\ast}$ is an abelian group.
