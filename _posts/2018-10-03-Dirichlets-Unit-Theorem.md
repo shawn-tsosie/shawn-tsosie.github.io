@@ -1,4 +1,4 @@
---
+---
 layout: post
 title: "Dirichlet's Unit Theorem"
 date: 2018-10-03
@@ -16,9 +16,9 @@ Unnatural here means that we are making arbitrary choices.
 The prime ideal takes care of these arbitrary choices.
 
 So, to move back to what we were talking about before, there are several constituents of an algebraic number field that come from the following exact sequence:
-'\begin{equation}
-1 '\to '\mathcal{O}_{K}^{'\ast} '\to K^{'\ast} '\to '\mathcal{J}_{K} '\to '\mathcal{Cl}_{K} '\to 1.
-'\end{equation}
+\begin{equation}
+1 \to \mathcal{O}_{K}^{\ast} \to K^{\ast} \to \mathcal{J}_{K} \to \mathcal{Cl}_{K} \to 1.
+\end{equation}
 Here:
 * $'\mathcal{O}_{K}^{'\ast}$ are the units of the rings of integers of $K$;
 * $K^{'\ast}$ is $K$ with the $0$ element removed;
