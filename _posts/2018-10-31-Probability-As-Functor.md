@@ -81,6 +81,11 @@ talking about a poset and a probability measure) is a function from a subset of 
 $$
 P(\cup A\_{k}) = \sum P(A\_{k}).
 $$
+If you are interested in further information about probability and measure,
+then *Probability and Measure, Third Edition* by Patrick Billingsley is a good
+all around reference. A good hands-on reference is *Measure Theory and
+Probability* by Macolm Adams and Victor Guillemin. This latter reference has a
+good section on infinite coin flips.
 
 We note that any subset of the power set is a poset, which is ordered by set
 inclusion. Thus, $\mathcal{F}$ is a poset. Further, $[0,1]$ is a poset as well,
@@ -88,8 +93,8 @@ with the usual order. The set function $P$ is a **monotone** function, which
 means that $P(A) \leq P(B)$ whenever $A \subset B$. So, $P$ sends an object of
 $\mathcal{F}$ to an object of $[0,1]$. Further, the monotone property means
 that we have a map from every set of morphisms of $\mathcal{F}$ to every set of
-morphisms of $[0,1]$ (remember that we in this case a morphism is just an
-element of the set $\text{Hom}\_{\mathcal{C}(X, Y)$, where $\mathcal{C}$ is a
+morphisms of $[0,1]$ (remember that in this case a morphism is just an
+element of the set $\text{Hom}\_{\mathcal{C}}(X, Y)$, where $\mathcal{C}$ is a
 poset category). Further, the composition preservation property just says that
 if $A \subset B \subset C$, the $P(A) \leq P(B) \leq P(C)$.
 
