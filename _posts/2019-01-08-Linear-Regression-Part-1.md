@@ -42,8 +42,8 @@ to all of the points simultaneously.
 We can now work on figuring out how to make the line close.
 The closeness of a line can be thought of as a function of the parameters that
 define a line.
-We will call this function $J$ and we will denote the parameters by **$a$**.
-This function $J(**a**)$ is often called an __objective function__ and a
+We will call this function $J$ and we will denote the parameters by ${\bf a}$.
+This function $J({\bf a})$ is often called an __objective function__ and a
 sizable portion of machine learning is concerned with minimizing objective
 functions.
 
@@ -84,4 +84,4 @@ y = 0.817x + 0.768.
 $$
 
 All of this is visualized in the following picture:
-![Linear Regression Toy Example](/images/2019-01-08-linear-regression.png)
+![Linear Regression Toy Example](/_images/2019-01-08-linear-regression.png)
