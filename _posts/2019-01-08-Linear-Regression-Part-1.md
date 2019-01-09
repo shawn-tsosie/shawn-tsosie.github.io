@@ -86,5 +86,5 @@ $$
 All of this is visualized in the following picture:  
 
 <p align='center'>
-![Linear Regression Toy Example](https://www.dropbox.com/s/i2bia5kjr6rbmgw/2019-01-08-linear-regression.png?raw=1)
+  <img src='https://www.dropbox.com/s/i2bia5kjr6rbmgw/2019-01-08-linear-regression.png?raw=1' alt='Linear Regression Toy Example'>
 </p>
