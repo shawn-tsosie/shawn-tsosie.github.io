@@ -84,4 +84,4 @@ y = 0.817x + 0.768.
 $$
 
 All of this is visualized in the following picture:
-![Linear Regression Toy Example](https://www.dropbox.com/s/i2bia5kjr6rbmgw/2019-01-08-linear-regression.png)
+![Linear Regression Toy Example](https://www.dropbox.com/s/i2bia5kjr6rbmgw/2019-01-08-linear-regression.png?raw=1)
