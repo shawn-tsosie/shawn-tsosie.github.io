@@ -16,7 +16,7 @@ its variants.
 
 Suppose that we have a large number of points (any kind of numerical data will
 work).
-We either know or suspect that there is some predictable or function generating
+We either know or suspect that there is some predictable function generating
 these points.
 What we would like to do is determine what form this function takes.
 For example, suppose that we have the average housing price per year for the
@@ -72,7 +72,7 @@ We want to find $a$ and $b$ such that $y = ax + b$ fits the line as closely as
 possible.
 In practice, this means that we want to minimize the following function:
 $$
-J(a, b) = \frac{1}{10}\sqrt{(6 - 4a - b)^2 + (1 - a - b)^2 + (5 - 6a - b)^2 + (7 - 8a - b)^2 + (2 - 2a - b)^2}
+J(a, b) = \sqrt{(6 - 4a - b)^2 + (1 - a - b)^2 + (5 - 6a - b)^2 + (7 - 8a - b)^2 + (2 - 2a - b)^2}
 $$
 
 If we apply the theory from the following section, the $a$ and $b$ that
